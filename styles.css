@@ -19,3 +19,4 @@
 .button-arrow{width:16px;height:16px;display:block;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 @media(max-width:800px){.role-orbit{right:10px;width:122px;height:122px}.role-orbit span:nth-child(2){right:-6px}.role-orbit span:nth-child(4){left:-9px}}
 @media(max-width:800px){.speaker-image{height:310px;background-position:center 42%}.speaker{gap:30px}}
+@media(max-width:800px){.intro{padding-bottom:55px}.freedom{padding-top:45px}}
