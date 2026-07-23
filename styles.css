@@ -16,3 +16,6 @@
 @media(max-width:800px){.header{gap:12px}.header .brand img{width:124px}.header-phone{display:block;margin-left:auto;font-size:10px;white-space:nowrap}.menu-button{margin-left:0;flex:0 0 30px}}
 @media(max-width:800px){.roles-marquee{font-size:clamp(32px,8.8vw,40px);letter-spacing:-.07em;transform:none;text-align:center}}
 @media(max-width:800px){.freedom-photo{height:280px;background-position:center 42%}.freedom{gap:30px}}
+.button-arrow{width:16px;height:16px;display:block;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+@media(max-width:800px){.role-orbit{right:10px;width:122px;height:122px}.role-orbit span:nth-child(2){right:-6px}.role-orbit span:nth-child(4){left:-9px}}
+@media(max-width:800px){.speaker-image{height:310px;background-position:center 42%}.speaker{gap:30px}}
